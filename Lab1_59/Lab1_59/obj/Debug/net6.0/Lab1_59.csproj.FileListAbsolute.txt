@@ -1,0 +1,15 @@
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\bin\Debug\net6.0\Lab1_59.exe
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\bin\Debug\net6.0\Lab1_59.deps.json
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\bin\Debug\net6.0\Lab1_59.runtimeconfig.json
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\bin\Debug\net6.0\Lab1_59.dll
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\bin\Debug\net6.0\Lab1_59.pdb
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\obj\Debug\net6.0\Lab1_59.csproj.AssemblyReference.cache
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\obj\Debug\net6.0\Lab1_59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\obj\Debug\net6.0\Lab1_59.AssemblyInfoInputs.cache
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\obj\Debug\net6.0\Lab1_59.AssemblyInfo.cs
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\obj\Debug\net6.0\Lab1_59.csproj.CoreCompileInputs.cache
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\obj\Debug\net6.0\Lab1_59.dll
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\obj\Debug\net6.0\refint\Lab1_59.dll
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\obj\Debug\net6.0\Lab1_59.pdb
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\obj\Debug\net6.0\Lab1_59.genruntimeconfig.cache
+C:\Users\plast\Desktop\Lab1_59\Lab1_59\obj\Debug\net6.0\ref\Lab1_59.dll
