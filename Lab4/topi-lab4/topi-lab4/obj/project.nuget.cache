@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdsNpCic+kD24my4W07iWRMyhyaxj0Imyma1Gr6mO61maDTcy1RNNZfL0TKcPU60MHfl5lvSihpTgq9cpesNjA==",
+  "success": true,
+  "projectFilePath": "D:\\University\\4course\\CrossPlatform\\topi-lab4\\topi-lab4\\topi-lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Illia\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.2\\mcmaster.extensions.commandlineutils.4.0.2.nupkg.sha512",
+    "C:\\Users\\Illia\\.nuget\\packages\\nuget.commandline\\6.3.1\\nuget.commandline.6.3.1.nupkg.sha512",
+    "C:\\Users\\Illia\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
